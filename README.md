@@ -42,12 +42,13 @@ All analysis and visualizations were done using **Google Sheets**. Key elements 
 **Visuals Used:**
 - Funnel diagrams
 - Bar charts for drop-out rates
-- Line plots for conversion trends
+
 
 ---
 
 ## 📊 Dashboard Link
-Dashboard created in Google Sheets: [View Dashboard](https://github.com/rashi12121/CloudNova-Adoption-Funnel-Analysis/blob/main/Screenshot%202025-04-17%20225418.png)
+![Participant Onboarding Analysis Dashboard]( (https://github.com/rashi12121/CloudNova-Adoption-Funnel-Analysis/blob/main/Screenshot%202025-04-17%20225418.png))
+
 
 ---
 
